@@ -1,0 +1,7 @@
+export { default as Hero} from './Hero/Hero'
+export { default as Work} from './Work/Work'
+export { default as Portfolio} from './Portfolio/Portfolio'
+export { default as Profile} from './Portfolio/Portfolio'
+export { default as About} from './About/About'
+export { default as SocialMedia} from './SocialMedia/SocialMedia'
+export { default as Footer} from './Footer/Footer'
